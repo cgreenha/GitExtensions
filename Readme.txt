@@ -1,0 +1,1 @@
+This git folder is controlled by git extensions
