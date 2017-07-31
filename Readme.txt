@@ -1,1 +1,2 @@
-This git folder is controlled by git extensions
+Overview: This git folder is controlled by git extensions
+Content: Useful practice programs
